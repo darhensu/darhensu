@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.github.com/darhensu](https://www.github.com/darhensu)
 
-- 📫 How to reach me **darhensu@gmail.com**
+- 📫 How to reach me **gmail@darhensu.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
